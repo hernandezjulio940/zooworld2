@@ -1,7 +1,7 @@
 /* 
 March 01, 2019  
 
-Modify by Julio 
+DFZWassistant by Dan Fab
 Version 6.0 - RockYou is now PopReach
 Version 5.0  - Just renumbering
 Version 4.4c - Just a few fixes and button adjustments.
@@ -16543,3 +16543,4 @@ function zdAlertManage(zdgiftId){
 		window.open(optionsUrl+'?new='+zdgiftId,'_self');
 	}
 }
+set  限制解除 
